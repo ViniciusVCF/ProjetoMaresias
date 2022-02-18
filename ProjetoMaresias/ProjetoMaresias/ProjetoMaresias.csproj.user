@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Códigos C#\PIM - UNIP\ProjetoMaresias\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Forms Financeiro\FrmFaturamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Financeiro\FrmMenuFinanceiro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Gastos\FrmCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Gastos\FrmMenuGastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Gastos\FrmRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Hospedagem\FrmCheckin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Hospedagem\FrmCheckout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Hospedagem\FrmIncluirConsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Hospedagem\FrmMenuHospedagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Produto\FrmAlterarDadosProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Produto\FrmCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Produto\FrmConsultaProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Produto\FrmMenuProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Quarto\FrmAlterarDadosQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Quarto\FrmCadastrarQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Quarto\FrmConsultaQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Quarto\FrmMenuQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Quarto\FrmQuartosDisponiveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Recepcao\FrmAlteraDadosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Recepcao\FrmCadastrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Recepcao\FrmConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Recepcao\FrmMenuRecepcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Reserva\FrmAlterarStatusReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Reserva\FrmCadastroReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Reserva\FrmConsultaReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Reserva\FrmMenuReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms RH\FrmConsultarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms RH\FrmCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms RH\FrmAlteraDadosFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Login\FrmCadastroLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms Login\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Forms RH\FrmMenuRH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

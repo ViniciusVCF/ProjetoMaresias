@@ -1,0 +1,11 @@
+D:\Downloads\ProjetoMaresias.exe
+D:\Downloads\ProjetoMaresias.dll
+D:\Downloads\ProjetoMaresias.deps.json
+D:\Downloads\ProjetoMaresias.runtimeconfig.json
+D:\Downloads\ProjetoMaresias.pdb
+D:\Downloads\System.Data.SqlClient.dll
+D:\Downloads\runtimes\win-arm64\native\sni.dll
+D:\Downloads\runtimes\win-x64\native\sni.dll
+D:\Downloads\runtimes\win-x86\native\sni.dll
+D:\Downloads\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Downloads\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
